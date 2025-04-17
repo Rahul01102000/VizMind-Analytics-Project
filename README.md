@@ -3,4 +3,4 @@ This repository contains my data analysis projects using Excel, SqlServer,PowerB
 
 ## 🔍 Projects
 
-- [Training & Costing Analysis](./Training_Costing_Analysis_PBI/README.md)
+- [Training & Costing Analysis](./Training_&_Cost_Analysis/README.md)
