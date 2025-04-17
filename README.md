@@ -3,4 +3,4 @@ This repository contains my data analysis projects using Excel, SqlServer,PowerB
 
 ## 🔍 Projects
 
-- [Training & Cost Analysis](Training_&_Cost_Analysis/README.txt)
+- [Training & Cost Analysis](Training & Cost Analysis/README.txt)
